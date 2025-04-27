@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="170" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeXocpFgvCM_P1Elw0FRDdTk1R486tF9UmOw&sf"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shot4ro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Shot4ro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
