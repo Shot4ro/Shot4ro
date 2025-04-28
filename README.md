@@ -42,6 +42,12 @@
 
 ###
 
+<div align="center">  
+  <a href="https://github.com/Shot4ro">
+    <img src="https://raw.githubusercontent.com/Shot4ro/Shot4ro/output/github-contribution-grid-snake-dark.svg">
+  </a>
+</div>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Shot4ro/count.svg?"  />
 </div>
